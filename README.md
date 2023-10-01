@@ -19,6 +19,10 @@
   <img align="center" alt="Albert-GODOT" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png">
 </div>
 
+ ##
+
+<a href="https://www.instagram.com/albert_keiyza/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
 <!--
 **AlbertGabriel12/AlbertGabriel12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
