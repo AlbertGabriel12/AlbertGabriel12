@@ -1,12 +1,10 @@
 ### Hello World 👋
 
-- 🔭 I’m currently working on make a two comercial games using Godot Game Engine and making comercial APPs
-- 🌱 I’m currently learning React Native and API REST
-
 <div align="center">
   <a href="https://github.com/AlbertGabriel12">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertgabriel12&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <br/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=albertgabriel12&theme=midnight-purple&hide_border=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertGabriel12&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
     
