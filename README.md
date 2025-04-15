@@ -21,7 +21,7 @@
   <img align="center" alt="Albert-GODOT" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png">
   <img align="center" alt="Albert-Go" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img align="center" alt="Albert-Go" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Albert-Go" width="40" src="[https://www.svgrepo.com/show/306013/ethereum.svg](https://image.pngaaa.com/466/1559466-middle.png)">
+  <img align="center" alt="Albert-Go" width="40" src="https://www.svgrepo.com/show/306013/ethereum.svg](https://image.pngaaa.com/466/1559466-middle.png">
 </div>
 
  ##
