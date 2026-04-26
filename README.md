@@ -1,7 +1,5 @@
 ### Hello World 👋
 
-<img height="512px" src="https://pbs.twimg.com/profile_banners/913039185438806017/1777122369/600x200" />
-
 <div align="center">
   <a href="https://github.com/AlbertGabriel12">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertgabriel12&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
@@ -23,6 +21,10 @@
   <img align="center" alt="Albert-Go" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Albert-Go" width="40" src="https://www.pngall.com/wp-content/uploads/10/Ethereum-Logo-PNG-HD-Image.png">
   <img align="center" alt="Albert-Go" width="40" src="https://www.cryptovantage.com/app/uploads/2021/05/polygon-matic-logo-2.png">
+</div>
+
+<div align="center">
+  <img height="512px" src="https://pbs.twimg.com/profile_banners/913039185438806017/1777122369/600x200" />
 </div>
 
  ##
